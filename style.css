@@ -1,5 +1,6 @@
 header {
   font-family: 'Dancing Script', cursive;
+  text-align: center;
 }
 
 body {
@@ -9,7 +10,16 @@ body {
 }
 
 h1, h2, h3 {
-  
+  color: black;
+  text-align: center;
+  font-size: 22px;
+}
+
+p {
+  color: black;
+  font-family: 'Hubballi', cursive;
+  font-size: 18px;
+  text-align: center;
 }
 
 footer {
