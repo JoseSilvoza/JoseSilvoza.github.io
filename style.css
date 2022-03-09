@@ -1,6 +1,5 @@
 header {
-  font-family: 'Dancing Script', cursive;
-  text-align: center;
+  background: grey;
   height: 150px;
 }
 
@@ -31,3 +30,17 @@ footer {
 main {
   
 }
+
+.logo {
+  text-align: center;
+  font-family: 'Marck Script', cursive;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
