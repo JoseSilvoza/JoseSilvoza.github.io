@@ -29,13 +29,15 @@ h1, h2, h3 {
   color: black;
   text-align: center;
   font-size: 22px;
+  font-family: 'Hubballi', cursive;
 }
 
-p {
+p, li {
   color: black;
-  font-family: 'Hubballi', cursive;
   font-size: 18px;
   text-align: center;
+  line-height: 1.5em;
+  margin-bottom: 0;
 }
 
 /* Elements */
