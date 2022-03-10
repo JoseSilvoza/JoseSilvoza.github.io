@@ -38,14 +38,17 @@ p {
   text-align: center;
 }
 
-/* Element */
+/* Elements */
 
 .logo {
   text-align: center;
   font-family: 'Marck Script', cursive;
 }
   
-
+a:link { color: Blue; }
+a:visited { color: Blue; }
+a:hover { color: Red; }
+a:active { color: Black; }
   
   
   
