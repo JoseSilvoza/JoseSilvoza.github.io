@@ -1,3 +1,6 @@
+/* Structure */
+
+
 header {
   background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">;
   height: 150px;
@@ -8,6 +11,19 @@ body {
   margin: 0;
   background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">;
 }
+
+footer {
+  color: black;
+  text-align: center;
+  background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">'
+}
+
+article {
+  padding:0 25%;
+  margin:80px 0;
+}
+
+/* Text */
 
 h1, h2, h3 {
   color: black;
@@ -22,22 +38,13 @@ p {
   text-align: center;
 }
 
-footer {
-  color: black;
-  text-align: center;
-  background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">'
-}
+/* Element */
 
 .logo {
   text-align: center;
   font-family: 'Marck Script', cursive;
 }
   
-article {
-  padding:0 25%;
-  margin:80px 0;
-}
-
 
   
   
