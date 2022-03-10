@@ -1,12 +1,12 @@
 header {
-  background: grey;
+  background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">;
   height: 150px;
 }
 
 body {
   font-family: 'Bookman Old Style', Bookman, 'URW Bookman L', serif;
   margin: 0;
-  background: white;
+  background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">;
 }
 
 h1, h2, h3 {
@@ -25,6 +25,7 @@ p {
 footer {
   color: black;
   text-align: center;
+  background: <img src="https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg" class="ilightbox-image">'
 }
 
 .logo {
