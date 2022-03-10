@@ -2,8 +2,9 @@
 
 
 header {
-  background: grey;
+  background: silver;
   height: 150px;
+  font-size: 150px;
 }
 
 body {
@@ -28,13 +29,13 @@ article {
 h1, h2, h3 {
   color: black;
   text-align: center;
-  font-size: 22px;
+  font-size: 40px;
   font-family: 'Hubballi', cursive;
 }
 
 p, li {
   color: black;
-  font-size: 18px;
+  font-size: 23px;
   text-align: center;
   line-height: 1.5em;
   margin-bottom: 0;
@@ -48,7 +49,7 @@ p, li {
 }
 
 img {
-  width: 25%;
+  width: 50%;
   border-radius; 5px;
 }
 
