@@ -2,7 +2,7 @@
 
 
 header {
-  background: silver;
+  background: #c0c0c0;
   height: 120px;
   font-size: 80px;
 }
@@ -10,13 +10,13 @@ header {
 body {
   font-family: 'Bookman Old Style', Bookman, 'URW Bookman L', serif;
   margin: 0;
-  background: grey;
+  background: #808080;
 }
 
 footer {
-  color: black;
+  color: #000000;
   text-align: center;
-  background: silver;
+  background: #c0c0c0;
 }
 
 article {
@@ -27,14 +27,14 @@ article {
 /* Text */
 
 h1, h2, h3 {
-  color: black;
+  color: #000000;
   text-align: center;
   font-size: 40px;
   font-family: 'Hubballi', cursive;
 }
 
 p, li {
-  color: black;
+  color: #000000;
   font-size: 23px;
   text-align: center;
   line-height: 1.5em;
@@ -56,16 +56,16 @@ img {
 /* Pseudo classes */
 
 /* Unvisited link */
-a:link { color: Blue; }
+a:link { color: #0000ff; }
 
 /* Visited link */
-a:visited { color: Black; }
+a:visited { color: #000000; }
 
 /* Mouse over link */
-a:hover { color: Red; }
+a:hover { color: #ff0000; }
 
 /* Selected link */
-a:active { color: Red; }
+a:active { color: #ff0000; }
   
   
   
