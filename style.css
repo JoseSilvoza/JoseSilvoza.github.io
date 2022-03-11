@@ -56,7 +56,7 @@ img {
 /* Pseudo classes */
 
 /* Unvisited link */
-a:link { color: #FEFE33; }
+a:link { color: #000000; }
 
 /* Visited link */
 a:visited { color: #35B6E9; }
