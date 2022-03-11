@@ -53,10 +53,19 @@ img {
   border-radius; 5px;
 }
 
+/* Pseudo classes */
+
+/* Unvisited link */
 a:link { color: Blue; }
-a:visited { color: Blue; }
+
+/* Visited link */
+a:visited { color: Green; }
+
+/* Mouse over link */
 a:hover { color: Red; }
-a:active { color: Black; }
+
+/* Selected link */
+a:active { color: Red; }
   
   
   
