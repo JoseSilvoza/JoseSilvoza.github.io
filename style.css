@@ -4,7 +4,7 @@
 header {
   background: #c0c0c0;
   height: 120px;
-  font-size: 70px;
+  font-size: 60px;
 }
 
 body {
@@ -29,13 +29,13 @@ article {
 h1, h2, h3 {
   color: #000000;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   font-family: 'Hubballi', cursive;
 }
 
 p, li {
   color: #000000;
-  font-size: 23px;
+  font-size: 20px;
   text-align: center;
   line-height: 1.5em;
   margin-bottom: 0;
