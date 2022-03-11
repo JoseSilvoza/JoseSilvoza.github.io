@@ -59,7 +59,7 @@ img {
 a:link { color: #000000; }
 
 /* Visited link */
-a:visited { color: #35B6E9; }
+a:visited { color: #FF0000; }
 
 /* Mouse over link */
 a:hover { color: #ff0000; }
