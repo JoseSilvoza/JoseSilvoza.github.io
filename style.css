@@ -56,10 +56,10 @@ img {
 /* Pseudo classes */
 
 /* Unvisited link */
-a:link { color: #0000ff; }
+a:link { color: #FEFE33; }
 
 /* Visited link */
-a:visited { color: #000000; }
+a:visited { color: #35B6E9; }
 
 /* Mouse over link */
 a:hover { color: #ff0000; }
